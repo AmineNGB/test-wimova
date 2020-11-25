@@ -1,0 +1,49 @@
+{
+  "users": [
+    {
+      "phone": "0612241326",
+      "picture": "http://placehold.it/32x32",
+      "age": 29,
+      "name": "Amine NEGHBEL",
+      "gender": "male",
+      "company": "Freelancer",
+      "email": "amineneghbel@gmail.com"
+    },
+    {
+        "phone": "06XXXXXXXX",
+        "picture": "http://placehold.it/32x32",
+        "age": 30,
+        "name": "John DOE",
+        "gender": "male",
+        "company": "none",
+        "email": "johndoe@gmail.com"
+      },
+      {
+        "phone": "06XXXXXXXX",
+        "picture": "http://placehold.it/32x32",
+        "age": 35,
+        "name": "Kévin CHAVANNES",
+        "gender": "male",
+        "company": "Teacher",
+        "email": "kevinchavannes@gmail.com"
+      },
+      {
+        "phone": "06XXXXXXXX",
+        "picture": "http://placehold.it/32x32",
+        "age": 25,
+        "name": "Benjamin JOLIVOT",
+        "gender": "male",
+        "company": "Admin",
+        "email": "benjaminjolivot@gmail.com"
+      },
+      {
+        "phone": "06XXXXXXXX",
+        "picture": "http://placehold.it/32x32",
+        "age": 29,
+        "name": "Matthieu CARTILLIER",
+        "gender": "male",
+        "company": "Directeur du Wagon",
+        "email": "matthieucartillier@gmail.com"
+      },
+    ]
+  }
